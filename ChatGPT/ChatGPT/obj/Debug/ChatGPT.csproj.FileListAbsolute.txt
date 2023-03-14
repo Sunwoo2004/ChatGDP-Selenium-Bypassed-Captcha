@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\bin\Debug\ChatGPT.exe.config
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\bin\Debug\ChatGPT.exe
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\bin\Debug\ChatGPT.pdb
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\bin\Debug\WebDriver.dll
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\bin\Debug\WebDriver.xml
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\obj\Debug\ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\obj\Debug\ChatGPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\obj\Debug\ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\obj\Debug\ChatGPT.csproj.CopyComplete
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\obj\Debug\ChatGPT.exe
+C:\Users\Admin\Desktop\ChatGPT\ChatGPT\obj\Debug\ChatGPT.pdb
